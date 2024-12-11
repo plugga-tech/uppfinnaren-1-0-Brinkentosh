@@ -1,0 +1,13 @@
+﻿@using Uppfinnaren.Models.ContactInfo
+@model IEnumerable<ContactInfoViewModel>
+
+<h1>Kontaktuppgifter!</h1>
+
+@{int counter=1;}
+
+@foreach(var contactInfoViewModel in Model)
+{
+    <p>@counter: <partial name="_ContactItem" model="contactInfoViewModel" /></p>
+
+    counter++;
+} 

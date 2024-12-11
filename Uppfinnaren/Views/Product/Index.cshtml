@@ -1,0 +1,13 @@
+﻿@using Uppfinnaren.Models.ProductInfo
+@model IEnumerable<ProductInfoViewModel>
+
+<h1>Produkter!</h1>
+
+@{int counter=1;}
+
+@foreach(var productInfoViewModel in Model)
+{
+    <p>@counter: <partial name="_ProductItem" model="productInfoViewModel" /></p>
+
+    counter++;
+} 
