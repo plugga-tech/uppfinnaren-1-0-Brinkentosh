@@ -23,6 +23,7 @@ public class ProductController : Controller
         {
             productInfoViewModels.Add(new ProductInfoViewModel
             {
+                Name = productInfo.Name,
                 Type = productInfo.Type,
                 Color = productInfo.Color,
                 Description = productInfo.Description,
