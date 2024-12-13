@@ -95,3 +95,4 @@ C:\Skola\Dynamiska webbsystem 1\Inlämning Uppfinnaren\uppfinnaren-1-0-Brinkento
 C:\Skola\Dynamiska webbsystem 1\Inlämning Uppfinnaren\uppfinnaren-1-0-Brinkentosh\Uppfinnaren\obj\Debug\net9.0\Uppfinnaren.genruntimeconfig.cache
 C:\Skola\Dynamiska webbsystem 1\Inlämning Uppfinnaren\uppfinnaren-1-0-Brinkentosh\Uppfinnaren\obj\Debug\net9.0\ref\Uppfinnaren.dll
 C:\Skola\Dynamiska webbsystem 1\Inlämning Uppfinnaren\uppfinnaren-1-0-Brinkentosh\Uppfinnaren\obj\Debug\net9.0\compressed\vfo1bg836j-k4j3agzovs.gz
+C:\Skola\Dynamiska webbsystem 1\Inlämning Uppfinnaren\uppfinnaren-1-0-Brinkentosh\Uppfinnaren\obj\Debug\net9.0\Uppfinnaren.sourcelink.json

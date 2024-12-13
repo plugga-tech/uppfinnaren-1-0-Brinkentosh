@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "tIVAIzEmCXbYxNas0X89a7l5MIgLHrqxdB4g5TQjUtM=",
+  "Hash": "bYvQk6JCotnFGsEQAqB68iALAMiifnEt/N5dpNrg2ok=",
   "Source": "Uppfinnaren",
   "BasePath": "_content/Uppfinnaren",
   "Mode": "Default",
@@ -1443,6 +1443,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\img\\produkt_2.jpg",
+      "SourceId": "Uppfinnaren",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\",
+      "BasePath": "_content/Uppfinnaren",
+      "RelativePath": "img/produkt_2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4xco6kn0x8",
+      "Integrity": "aF1rjxgaUPNXCz3tMrIt1nnmEMWS/K7wz5qmimIjKFg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\produkt_2.jpg"
+    },
+    {
+      "Identity": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\img\\produkt_3.jpg",
+      "SourceId": "Uppfinnaren",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\",
+      "BasePath": "_content/Uppfinnaren",
+      "RelativePath": "img/produkt_3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "486v8oil81",
+      "Integrity": "RPm41NP3zMslOkz6fVGiaWGXA9UvdVIdlJi6FW1mLic=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\produkt_3.jpg"
     },
     {
       "Identity": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\js\\site.js",
@@ -3320,6 +3362,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-14IS9ozQV/tMv9Udblm3lAXVWX4uWwXpc218mJqCl4w="
+        }
+      ]
+    },
+    {
+      "Route": "img/produkt_2.4xco6kn0x8.jpg",
+      "AssetFile": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\img\\produkt_2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "45882"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aF1rjxgaUPNXCz3tMrIt1nnmEMWS/K7wz5qmimIjKFg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Dec 2024 09:46:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4xco6kn0x8"
+        },
+        {
+          "Name": "label",
+          "Value": "img/produkt_2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aF1rjxgaUPNXCz3tMrIt1nnmEMWS/K7wz5qmimIjKFg="
+        }
+      ]
+    },
+    {
+      "Route": "img/produkt_2.jpg",
+      "AssetFile": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\img\\produkt_2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "45882"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aF1rjxgaUPNXCz3tMrIt1nnmEMWS/K7wz5qmimIjKFg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Dec 2024 09:46:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aF1rjxgaUPNXCz3tMrIt1nnmEMWS/K7wz5qmimIjKFg="
+        }
+      ]
+    },
+    {
+      "Route": "img/produkt_3.486v8oil81.jpg",
+      "AssetFile": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\img\\produkt_3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46942"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RPm41NP3zMslOkz6fVGiaWGXA9UvdVIdlJi6FW1mLic=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Dec 2024 09:48:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "486v8oil81"
+        },
+        {
+          "Name": "label",
+          "Value": "img/produkt_3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RPm41NP3zMslOkz6fVGiaWGXA9UvdVIdlJi6FW1mLic="
+        }
+      ]
+    },
+    {
+      "Route": "img/produkt_3.jpg",
+      "AssetFile": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\img\\produkt_3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46942"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RPm41NP3zMslOkz6fVGiaWGXA9UvdVIdlJi6FW1mLic=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Dec 2024 09:48:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RPm41NP3zMslOkz6fVGiaWGXA9UvdVIdlJi6FW1mLic="
         }
       ]
     },

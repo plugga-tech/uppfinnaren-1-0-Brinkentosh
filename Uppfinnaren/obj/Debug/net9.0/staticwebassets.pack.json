@@ -13,6 +13,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\img\\produkt_2.jpg",
+      "PackagePath": "staticwebassets\\img\\produkt_2.jpg"
+    },
+    {
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\img\\produkt_3.jpg",
+      "PackagePath": "staticwebassets\\img\\produkt_3.jpg"
+    },
+    {
       "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
