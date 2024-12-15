@@ -25,6 +25,10 @@
       "PackagePath": "staticwebassets\\img\\stol.jpg"
     },
     {
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\img\\uppfinnare.jpg",
+      "PackagePath": "staticwebassets\\img\\uppfinnare.jpg"
+    },
+    {
       "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mMfVPVmsnFk/Vg8nnqHjKdZXtgBRX57mJp9kkQMlM/o=",
+  "Hash": "08AtPBdwJ4cDdBgL3pwQfas3VEsq9e7CLoXEv/S4vr8=",
   "Source": "Uppfinnaren",
   "BasePath": "_content/Uppfinnaren",
   "Mode": "Default",
@@ -1506,6 +1506,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\stol.jpg"
+    },
+    {
+      "Identity": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\img\\uppfinnare.jpg",
+      "SourceId": "Uppfinnaren",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\",
+      "BasePath": "_content/Uppfinnaren",
+      "RelativePath": "img/uppfinnare#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kq1pn0vlvv",
+      "Integrity": "9INHFhOWvV/sV3/ZwPjgvcrgtjbLMj3ZEDfQ2wztBmk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\uppfinnare.jpg"
     },
     {
       "Identity": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\js\\site.js",
@@ -3629,6 +3650,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-uLKXfzpJBPhQguBd2kV/DCHiSnrd5ANgaBza2Rxed4E="
+        }
+      ]
+    },
+    {
+      "Route": "img/uppfinnare.jpg",
+      "AssetFile": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\img\\uppfinnare.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37470"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9INHFhOWvV/sV3/ZwPjgvcrgtjbLMj3ZEDfQ2wztBmk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 10:06:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9INHFhOWvV/sV3/ZwPjgvcrgtjbLMj3ZEDfQ2wztBmk="
+        }
+      ]
+    },
+    {
+      "Route": "img/uppfinnare.kq1pn0vlvv.jpg",
+      "AssetFile": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\img\\uppfinnare.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37470"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9INHFhOWvV/sV3/ZwPjgvcrgtjbLMj3ZEDfQ2wztBmk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 10:06:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kq1pn0vlvv"
+        },
+        {
+          "Name": "label",
+          "Value": "img/uppfinnare.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9INHFhOWvV/sV3/ZwPjgvcrgtjbLMj3ZEDfQ2wztBmk="
         }
       ]
     },
