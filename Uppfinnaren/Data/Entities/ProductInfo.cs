@@ -10,5 +10,6 @@ public class ProductInfo
     public string Material {get; set;} = string.Empty;
     public string Description {get; set;} = string.Empty;
     public string Color {get; set;} = string.Empty;
+    public int CategoryId {get;set;}
 
 }

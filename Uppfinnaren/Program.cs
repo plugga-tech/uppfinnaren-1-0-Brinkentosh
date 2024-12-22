@@ -1,10 +1,17 @@
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Options;
+using Uppfinnaren.Data.Entities;
 using Uppfinnaren.Data.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Services.AddScoped<IProductInfoRepository, MockProductInfoRepository>();
+builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
+builder.Services.AddScoped<IProductInfoRepository, ProductInfoRepository>();
 builder.Services.AddScoped<IContactInfoRepository, MockContactInfoRepository>();
+builder.Services.AddDbContext<AppDbContext>(options=>
+    options.UseInMemoryDatabase("inventorsgalleri")
+);
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();

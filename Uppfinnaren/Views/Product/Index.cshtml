@@ -1,6 +1,11 @@
 ﻿@using Uppfinnaren.Models.ProductInfo
+@using Uppfinnaren.Models.Category
+
 @model IEnumerable<ProductInfoViewModel>
-<h1>Produkter</h1>
+
+@{var categoryName = Model.FirstOrDefault()?.CategoryName;}
+
+<h1 class="display-3 text-center" >@categoryName</h1>
 
 <div class="row">
     @foreach (var productInfoViewModel in Model)
