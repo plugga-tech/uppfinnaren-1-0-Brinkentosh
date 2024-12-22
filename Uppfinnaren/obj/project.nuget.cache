@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I58fMbFRL3I=",
+  "dgSpecHash": "DiQdx+O/zXU=",
   "success": true,
-  "projectFilePath": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\Uppfinnaren.csproj",
+  "projectFilePath": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\Uppfinnaren.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rbrin\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.0\\microsoft.entityframeworkcore.9.0.0.nupkg.sha512",
     "C:\\Users\\rbrin\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.0\\microsoft.entityframeworkcore.abstractions.9.0.0.nupkg.sha512",

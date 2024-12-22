@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\Uppfinnaren.csproj": {}
+    "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\Uppfinnaren.csproj": {}
   },
   "projects": {
-    "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\Uppfinnaren.csproj": {
+    "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\Uppfinnaren.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\Uppfinnaren.csproj",
+        "projectUniqueName": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\Uppfinnaren.csproj",
         "projectName": "Uppfinnaren",
-        "projectPath": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\Uppfinnaren.csproj",
+        "projectPath": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\Uppfinnaren.csproj",
         "packagesPath": "C:\\Users\\rbrin\\.nuget\\packages\\",
-        "outputPath": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\obj\\",
+        "outputPath": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

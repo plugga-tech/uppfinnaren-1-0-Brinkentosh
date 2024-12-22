@@ -17,7 +17,6 @@ C:\Skola\Dynamiska webbsystem 1\Inlämning Uppfinnaren\uppfinnaren-1-0-Brinkento
 C:\Skola\Dynamiska webbsystem 1\Inlämning Uppfinnaren\uppfinnaren-1-0-Brinkentosh\Uppfinnaren\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Skola\Dynamiska webbsystem 1\Inlämning Uppfinnaren\uppfinnaren-1-0-Brinkentosh\Uppfinnaren\obj\Debug\net9.0\scopedcss\bundle\Uppfinnaren.styles.css
 C:\Skola\Dynamiska webbsystem 1\Inlämning Uppfinnaren\uppfinnaren-1-0-Brinkentosh\Uppfinnaren\obj\Debug\net9.0\scopedcss\projectbundle\Uppfinnaren.bundle.scp.css
-C:\Skola\Dynamiska webbsystem 1\Inlämning Uppfinnaren\uppfinnaren-1-0-Brinkentosh\Uppfinnaren\obj\Debug\net9.0\compressed\qskn2xsrpo-b9sayid5wm.gz
 C:\Skola\Dynamiska webbsystem 1\Inlämning Uppfinnaren\uppfinnaren-1-0-Brinkentosh\Uppfinnaren\obj\Debug\net9.0\compressed\ak3alxn4l2-xtxxf3hu2r.gz
 C:\Skola\Dynamiska webbsystem 1\Inlämning Uppfinnaren\uppfinnaren-1-0-Brinkentosh\Uppfinnaren\obj\Debug\net9.0\compressed\6smadg63tc-bqjiyaj88i.gz
 C:\Skola\Dynamiska webbsystem 1\Inlämning Uppfinnaren\uppfinnaren-1-0-Brinkentosh\Uppfinnaren\obj\Debug\net9.0\compressed\wywsdvxkn9-c2jlpeoesf.gz
@@ -199,3 +198,9 @@ C:\Skola\Dynamiska webbsystem 1\Inlämning Uppfinnaren\uppfinnaren-2-0-Brinkento
 C:\Skola\Dynamiska webbsystem 1\Inlämning Uppfinnaren\uppfinnaren-2-0-Brinkentosh\Uppfinnaren\obj\Debug\net9.0\Uppfinnaren.genruntimeconfig.cache
 C:\Skola\Dynamiska webbsystem 1\Inlämning Uppfinnaren\uppfinnaren-2-0-Brinkentosh\Uppfinnaren\obj\Debug\net9.0\ref\Uppfinnaren.dll
 C:\Skola\Dynamiska webbsystem 1\Inlämning Uppfinnaren\uppfinnaren-2-0-Brinkentosh\Uppfinnaren\obj\Debug\net9.0\compressed\qskn2xsrpo-jzx1384nn3.gz
+C:\Skola\Dynamiska webbsystem 1\Inlämning Uppfinnaren\uppfinnaren-1-0-Brinkentosh\Uppfinnaren\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Skola\Dynamiska webbsystem 1\Inlämning Uppfinnaren\uppfinnaren-1-0-Brinkentosh\Uppfinnaren\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Skola\Dynamiska webbsystem 1\Inlämning Uppfinnaren\uppfinnaren-1-0-Brinkentosh\Uppfinnaren\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Skola\Dynamiska webbsystem 1\Inlämning Uppfinnaren\uppfinnaren-1-0-Brinkentosh\Uppfinnaren\obj\Debug\net9.0\Uppfinnaren.csproj.AssemblyReference.cache
+C:\Skola\Dynamiska webbsystem 1\Inlämning Uppfinnaren\uppfinnaren-1-0-Brinkentosh\Uppfinnaren\obj\Debug\net9.0\compressed\qskn2xsrpo-jzx1384nn3.gz
+C:\Skola\Dynamiska webbsystem 1\Inlämning Uppfinnaren\uppfinnaren-1-0-Brinkentosh\Uppfinnaren\obj\Debug\net9.0\Uppfinna.7D158958.Up2Date
