@@ -42,13 +42,13 @@ public class AppDbContext : DbContext
             new ProductInfo {Id=11, Type="Kaka", Color="Brun", Material="daim", Description="En daimkaka jag gjorde till ett dop", Name = "Daimkaka", CategoryId=3},
             new ProductInfo {Id=12, Type="Stol", Color="Grå", Material="Metall", Description="En stol jag byggde av en dörr till en Amazon", Name = "Metalstol", CategoryId=1},
             new ProductInfo {Id=13, Type="Kaka", Color="Brun", Material="Bröd", Description="En kaka gjord på morot", Name = "Morotskaka", CategoryId=3},
-            new ProductInfo {Id=14, Type="Stol", Color="Natur", Material="Trä", Description="En stol jag byggde ifrån en stubbe", Name = "Stol", CategoryId=1},
-            new ProductInfo {Id=15, Type="Stol", Color="Natur", Material="Trä", Description="En stol jag byggde ifrån en stubbe", Name = "Stol", CategoryId=1},
-            new ProductInfo {Id=16, Type="Stol", Color="Natur", Material="Trä", Description="En stol jag byggde ifrån en stubbe", Name = "Stol", CategoryId=1},
-            new ProductInfo {Id=17, Type="Stol", Color="Natur", Material="Trä", Description="En stol jag byggde ifrån en stubbe", Name = "Stol", CategoryId=1},
-            new ProductInfo {Id=18, Type="Stol", Color="Natur", Material="Trä", Description="En stol jag byggde ifrån en stubbe", Name = "Stol", CategoryId=1},
-            new ProductInfo {Id=19, Type="Stol", Color="Natur", Material="Trä", Description="En stol jag byggde ifrån en stubbe", Name = "Stol", CategoryId=1},
-            new ProductInfo {Id=20, Type="Stol", Color="Natur", Material="Trä", Description="En stol jag byggde ifrån en stubbe", Name = "Stol", CategoryId=1}
+            new ProductInfo {Id=14, Type="Stol", Color="Natur", Material="Trä", Description="En stol jag byggde ifrån en stubbe", Name = "Teknik2", CategoryId=2},
+            new ProductInfo {Id=15, Type="Stol", Color="Natur", Material="Trä", Description="En stol jag byggde ifrån en stubbe", Name = "Teknik3", CategoryId=2},
+            new ProductInfo {Id=16, Type="Stol", Color="Natur", Material="Trä", Description="En stol jag byggde ifrån en stubbe", Name = "Teknik4", CategoryId=2},
+            new ProductInfo {Id=17, Type="Stol", Color="Natur", Material="Trä", Description="En stol jag byggde ifrån en stubbe", Name = "Lifehack1", CategoryId=5},
+            new ProductInfo {Id=18, Type="Stol", Color="Natur", Material="Trä", Description="En stol jag byggde ifrån en stubbe", Name = "Lifehack2", CategoryId=5},
+            new ProductInfo {Id=19, Type="Stol", Color="Natur", Material="Trä", Description="En stol jag byggde ifrån en stubbe", Name = "Lifehack3", CategoryId=5},
+            new ProductInfo {Id=20, Type="Stol", Color="Natur", Material="Trä", Description="En stol jag byggde ifrån en stubbe", Name = "Lifehack4", CategoryId=5}
 
         );
     }

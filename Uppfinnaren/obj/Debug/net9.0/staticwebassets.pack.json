@@ -1,323 +1,323 @@
 {
   "Files": [
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Uppfinnaren.bundle.scp.css",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Uppfinnaren.bundle.scp.css",
       "PackagePath": "staticwebassets\\Uppfinnaren.yvz34s5tk9.bundle.scp.css"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\css\\site.css",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\favicon.ico",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\img\\bord.jpg",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\img\\bord.jpg",
       "PackagePath": "staticwebassets\\img\\bord.jpg"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\img\\bulle.jpg",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\img\\bulle.jpg",
       "PackagePath": "staticwebassets\\img\\bulle.jpg"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\img\\captainstol.jpg",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\img\\captainstol.jpg",
       "PackagePath": "staticwebassets\\img\\captainstol.jpg"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\img\\chassi.jpg",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\img\\chassi.jpg",
       "PackagePath": "staticwebassets\\img\\chassi.jpg"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\img\\daimkaka.jpg",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\img\\daimkaka.jpg",
       "PackagePath": "staticwebassets\\img\\daimkaka.jpg"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\img\\facecake.jpg",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\img\\facecake.jpg",
       "PackagePath": "staticwebassets\\img\\facecake.jpg"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\img\\hallmöbel.jpg",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\img\\hallmöbel.jpg",
       "PackagePath": "staticwebassets\\img\\hallmöbel.jpg"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\img\\legoanka.jpg",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\img\\legoanka.jpg",
       "PackagePath": "staticwebassets\\img\\legoanka.jpg"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\img\\legoc3po.jpg",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\img\\legoc3po.jpg",
       "PackagePath": "staticwebassets\\img\\legoc3po.jpg"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\img\\legodeathstar.jpg",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\img\\legodeathstar.jpg",
       "PackagePath": "staticwebassets\\img\\legodeathstar.jpg"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\img\\legor2d2.jpg",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\img\\legor2d2.jpg",
       "PackagePath": "staticwebassets\\img\\legor2d2.jpg"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\img\\metalstol.jpg",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\img\\metalstol.jpg",
       "PackagePath": "staticwebassets\\img\\metalstol.jpg"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\img\\morotskaka.jpg",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\img\\morotskaka.jpg",
       "PackagePath": "staticwebassets\\img\\morotskaka.jpg"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\img\\stol.jpg",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\img\\stol.jpg",
       "PackagePath": "staticwebassets\\img\\stol.jpg"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\img\\uppfinnare.jpg",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\img\\uppfinnare.jpg",
       "PackagePath": "staticwebassets\\img\\uppfinnare.jpg"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\img\\uppfinnarecontact.jpg",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\img\\uppfinnarecontact.jpg",
       "PackagePath": "staticwebassets\\img\\uppfinnarecontact.jpg"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\js\\site.js",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
     },
     {
-      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-2-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "Id": "C:\\Skola\\Dynamiska webbsystem 1\\Inlämning Uppfinnaren\\uppfinnaren-1-0-Brinkentosh\\uppfinnaren-1-0-Brinkentosh\\Uppfinnaren\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
     },
     {
