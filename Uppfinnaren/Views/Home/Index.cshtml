@@ -1,12 +1,24 @@
 ﻿@{
+    @using Uppfinnaren.Models.Category
     ViewData["Title"] = "Uppfinnaren";
 }
-
+@model IEnumerable<CategoryViewModel>
 <div class="text-center">
     <h1 class="display-4">Välkommen till Uppfinnarens galleri!</h1>
     <img src="~/img/uppfinnare.jpg">
     <p>Här kan se du mina kreationer samt hur du kan nå mig om du skulle vilja köpa ett verk eller bara kolla på dom i verkligheten!</p>
 
-    <a href="/contact"><button>Kontakta mig!</button></a>
+    <ul>
+        <label>Kategorier</label>
+        @foreach(var categoryViewModel in Model)
+        {
+            <li>
+                <a asp-action="Index" asp-route-categoryId = "@categoryViewModel.Id" asp-controller="product" >
+                @categoryViewModel.Name
+                </a>
+            </li>
+        }
+    </ul>
 
+    <a href="/contact"><button>Kontakta mig!</button></a>
 </div>
