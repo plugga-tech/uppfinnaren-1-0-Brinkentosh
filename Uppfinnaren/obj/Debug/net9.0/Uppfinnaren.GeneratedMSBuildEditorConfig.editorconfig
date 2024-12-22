@@ -9,53 +9,53 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Uppfinnaren
 build_property.RootNamespace = Uppfinnaren
-build_property.ProjectDir = C:\Skola\Dynamiska webbsystem 1\Inlämning Uppfinnaren\uppfinnaren-1-0-Brinkentosh\Uppfinnaren\
+build_property.ProjectDir = C:\Skola\Dynamiska webbsystem 1\Inlämning Uppfinnaren\uppfinnaren-1-0-Brinkentosh\uppfinnaren-1-0-Brinkentosh\Uppfinnaren\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Skola\Dynamiska webbsystem 1\Inlämning Uppfinnaren\uppfinnaren-1-0-Brinkentosh\Uppfinnaren
+build_property.MSBuildProjectDirectory = C:\Skola\Dynamiska webbsystem 1\Inlämning Uppfinnaren\uppfinnaren-1-0-Brinkentosh\uppfinnaren-1-0-Brinkentosh\Uppfinnaren
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Skola/Dynamiska webbsystem 1/Inlämning Uppfinnaren/uppfinnaren-1-0-Brinkentosh/Uppfinnaren/Views/Contact/Index.cshtml]
+[C:/Skola/Dynamiska webbsystem 1/Inlämning Uppfinnaren/uppfinnaren-1-0-Brinkentosh/uppfinnaren-1-0-Brinkentosh/Uppfinnaren/Views/Contact/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Skola/Dynamiska webbsystem 1/Inlämning Uppfinnaren/uppfinnaren-1-0-Brinkentosh/Uppfinnaren/Views/Home/Index.cshtml]
+[C:/Skola/Dynamiska webbsystem 1/Inlämning Uppfinnaren/uppfinnaren-1-0-Brinkentosh/uppfinnaren-1-0-Brinkentosh/Uppfinnaren/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Skola/Dynamiska webbsystem 1/Inlämning Uppfinnaren/uppfinnaren-1-0-Brinkentosh/Uppfinnaren/Views/Product/Index.cshtml]
+[C:/Skola/Dynamiska webbsystem 1/Inlämning Uppfinnaren/uppfinnaren-1-0-Brinkentosh/uppfinnaren-1-0-Brinkentosh/Uppfinnaren/Views/Product/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Skola/Dynamiska webbsystem 1/Inlämning Uppfinnaren/uppfinnaren-1-0-Brinkentosh/Uppfinnaren/Views/Shared/Error.cshtml]
+[C:/Skola/Dynamiska webbsystem 1/Inlämning Uppfinnaren/uppfinnaren-1-0-Brinkentosh/uppfinnaren-1-0-Brinkentosh/Uppfinnaren/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Skola/Dynamiska webbsystem 1/Inlämning Uppfinnaren/uppfinnaren-1-0-Brinkentosh/Uppfinnaren/Views/Shared/_ContactItem.cshtml]
+[C:/Skola/Dynamiska webbsystem 1/Inlämning Uppfinnaren/uppfinnaren-1-0-Brinkentosh/uppfinnaren-1-0-Brinkentosh/Uppfinnaren/Views/Shared/_ContactItem.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Db250YWN0SXRlbS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Skola/Dynamiska webbsystem 1/Inlämning Uppfinnaren/uppfinnaren-1-0-Brinkentosh/Uppfinnaren/Views/Shared/_ProductItem.cshtml]
+[C:/Skola/Dynamiska webbsystem 1/Inlämning Uppfinnaren/uppfinnaren-1-0-Brinkentosh/uppfinnaren-1-0-Brinkentosh/Uppfinnaren/Views/Shared/_ProductItem.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Qcm9kdWN0SXRlbS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Skola/Dynamiska webbsystem 1/Inlämning Uppfinnaren/uppfinnaren-1-0-Brinkentosh/Uppfinnaren/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Skola/Dynamiska webbsystem 1/Inlämning Uppfinnaren/uppfinnaren-1-0-Brinkentosh/uppfinnaren-1-0-Brinkentosh/Uppfinnaren/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Skola/Dynamiska webbsystem 1/Inlämning Uppfinnaren/uppfinnaren-1-0-Brinkentosh/Uppfinnaren/Views/_ViewImports.cshtml]
+[C:/Skola/Dynamiska webbsystem 1/Inlämning Uppfinnaren/uppfinnaren-1-0-Brinkentosh/uppfinnaren-1-0-Brinkentosh/Uppfinnaren/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Skola/Dynamiska webbsystem 1/Inlämning Uppfinnaren/uppfinnaren-1-0-Brinkentosh/Uppfinnaren/Views/_ViewStart.cshtml]
+[C:/Skola/Dynamiska webbsystem 1/Inlämning Uppfinnaren/uppfinnaren-1-0-Brinkentosh/uppfinnaren-1-0-Brinkentosh/Uppfinnaren/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Skola/Dynamiska webbsystem 1/Inlämning Uppfinnaren/uppfinnaren-1-0-Brinkentosh/Uppfinnaren/Views/Shared/_Layout.cshtml]
+[C:/Skola/Dynamiska webbsystem 1/Inlämning Uppfinnaren/uppfinnaren-1-0-Brinkentosh/uppfinnaren-1-0-Brinkentosh/Uppfinnaren/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-wn5emxykmy
